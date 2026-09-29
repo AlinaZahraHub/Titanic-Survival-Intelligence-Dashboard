@@ -7,6 +7,8 @@ An interactive, end-to-end Machine Learning web application that predicts passen
 ## 🌟 Live Demo & Overview
 This project demonstrates a complete end-to-end Machine Learning pipeline—progressing from raw historical data exploration and rigorous feature engineering to hyperparameter tuning and modern web deployment.
 
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/c8b69956-77dc-4d0c-9998-e2462bafe38d" />
+
 [Live Preview](https://titanic-survival-intelligence-dashboard.streamlit.app/)
 ---
 
