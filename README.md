@@ -7,6 +7,7 @@ An interactive, end-to-end Machine Learning web application that predicts passen
 ## 🌟 Live Demo & Overview
 This project demonstrates a complete end-to-end Machine Learning pipeline—progressing from raw historical data exploration and rigorous feature engineering to hyperparameter tuning and modern web deployment.
 
+[Live Preview](https://titanic-survival-intelligence-dashboard.streamlit.app/)
 ---
 
 ## 🚀 Key Features
@@ -30,13 +31,13 @@ This project demonstrates a complete end-to-end Machine Learning pipeline—prog
 Titanic-Dataset/
 │
 ├── app.py                 # Main Streamlit web application script
+├── titanic.ipynb          # Jupyter Notebook (EDA, preprocessing, and model training)
 ├── titanic_model.pkl      # Trained Random Forest classifier
 ├── sex_encoder.pkl        # Label encoder for passenger gender
 ├── embarked_encoder.pkl   # Label encoder for embarkation port
 ├── title_encoder.pkl      # Label encoder for extracted titles
 ├── requirements.txt       # Project dependencies for deployment
 └── README.md              # Project documentation
-
 ```
 
 ---
@@ -47,8 +48,8 @@ To run this project locally on your machine, follow these steps:
 
 1. **Clone the Repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/titanic-survival-intelligence-dashboard.git](https://github.com/YOUR_USERNAME/titanic-survival-intelligence-dashboard.git)
-cd titanic-survival-intelligence-dashboard
+git clone [https://github.com/AlinaZahraHub/Titanic-Survival-Intelligence-Dashboard.git](https://github.com/AlinaZahraHub/Titanic-Survival-Intelligence-Dashboard.git)
+cd Titanic-Survival-Intelligence-Dashboard
 
 ```
 
@@ -87,4 +88,6 @@ python -m streamlit run app.py
 
 *Undergraduate Computer Science Student | AI & Frontend Development Enthusiast*
 
-[GitHub Profile](https://www.google.com/search?q=https://github.com/YOUR_USERNAME&utm_source=gemini)
+[GitHub Profile](https://github.com/AlinaZahraHub)
+
+[LinkedIn Profile](https://www.linkedin.com/in/alina-zahra12/)
